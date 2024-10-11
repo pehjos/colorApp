@@ -15,3 +15,6 @@ npm install
 npx expo start --web
 
 ## Images
+![image](https://github.com/user-attachments/assets/0b811c93-afec-447e-8707-c34a2da303c1)
+
+
